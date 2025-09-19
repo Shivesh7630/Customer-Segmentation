@@ -61,8 +61,8 @@ Overall, this project serves as a complete, end-to-end example of applying machi
 ## ⚡ Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shivesh7630/Customer-Segmentation.git
-   cd Customer-Segmentation
+  git clone https://github.com/Shivesh7630/Customer-Segmentation.git
+
    ```
 
 2. Install dependencies:
