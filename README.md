@@ -75,7 +75,7 @@ Overall, this project serves as a complete, end-to-end example of applying machi
    streamlit run app.py
    ```
 
-4. Upload your CSV file and explore the results! 🎉
+4. Upload your CSV file and explore the results!
 
 ---
 
