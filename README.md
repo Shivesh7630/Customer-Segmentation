@@ -1,11 +1,11 @@
-# 📊 Customer Segmentation Project
+#  Customer Segmentation Project
 
 This project demonstrates **Customer Segmentation** using **KMeans Clustering** and **Principal Component Analysis (PCA)**.  
 It also includes an interactive **Streamlit web app** that allows users to upload customer datasets and visualize segmentation.
 
 ---
 
-## 📖 Project Description  
+##  Project Description  
 
 This project focuses on **Customer Segmentation** using advanced **Machine Learning techniques** such as **KMeans Clustering** and **Principal Component Analysis (PCA)**. Businesses today collect vast amounts of customer data, but understanding customer behavior and preferences requires effective segmentation strategies. This project provides both the analytical workflow in a **Jupyter Notebook** and an interactive **Streamlit web application** for real-time exploration and insights.  
 
@@ -34,7 +34,7 @@ Overall, this project serves as a complete, end-to-end example of applying machi
 
 ---
 
-## 🚀 Features
+##  Features
 - Upload customer data (CSV format).
 - Automatic preprocessing with **Scaler** and **PCA**.
 - Predict customer segments using a trained **KMeans model**.
@@ -43,7 +43,7 @@ Overall, this project serves as a complete, end-to-end example of applying machi
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 ```
 ├── app.py                     # Streamlit app for interactive segmentation
 ├── Cutomer_segmentation.ipynb # Jupyter Notebook - data exploration & training
@@ -58,7 +58,7 @@ Overall, this project serves as a complete, end-to-end example of applying machi
 
 ---
 
-## ⚡ Installation & Usage
+## Installation & Usage
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shivesh7630/Customer-Segmentation.git cd Customer-Segmentation
@@ -79,15 +79,15 @@ Overall, this project serves as a complete, end-to-end example of applying machi
 
 ---
 
-## 🛠️ Development Notes
+##  Development Notes
 - **requirements.txt**: Lists all dependencies needed to run the project.  
 - **.gitignore**: Ensures large or unnecessary files (datasets, pickle models, system files) are not pushed to GitHub.  
 
-👉 If you want to share data or models, you can upload them separately (e.g., via Google Drive or Git LFS).
+ If you want to share data or models, you can upload them separately (e.g., via Google Drive or Git LFS).
 
 ---
 
-## 📌 Example Segments
+## Example Segments
 The model categorizes customers into:
 - **Luxury Spenders**  
 - **Budget-Conscious Shoppers**  
@@ -96,7 +96,7 @@ The model categorizes customers into:
 
 ---
 
-## 📝 License
+## License
 This project is open-source and available under the MIT License.
 
 ---
